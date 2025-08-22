@@ -1,0 +1,5 @@
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.deps.json
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.dll
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.exe
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.pdb
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.runtimeconfig.json

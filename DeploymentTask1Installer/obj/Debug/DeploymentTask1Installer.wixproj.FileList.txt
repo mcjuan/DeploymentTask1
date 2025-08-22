@@ -1,0 +1,6 @@
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1Installer\bin\Debug\DeploymentTask1Installer.msi
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1Installer\bin\Debug\DeploymentTask1Installer.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\DeploymentTask1Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\DeploymentTask1Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\DeploymentTask1Installer.wixproj.BindBuiltOutputsFileListnull.txt

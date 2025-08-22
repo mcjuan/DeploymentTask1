@@ -1,0 +1,2 @@
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1Installer\bin\Debug\DeploymentTask1Installer.msi
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1Installer\bin\Debug\DeploymentTask1Installer.wixpdb

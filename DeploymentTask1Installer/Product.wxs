@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="DeploymentTask1" Language="1033" Version="1.0.0.0" Manufacturer="Student 103985595" UpgradeCode="46fb3ae6-c235-44cf-8e91-4fc5f395279e">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="DeploymentTask1Installer" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="DeploymentTask1" />
+			</Directory>
+		</Directory>
+	</Fragment>
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- Main executable -->
+			<Component Id="DeploymentTask1.exe" Guid="da6d0e4b-010b-4f40-b3f1-dd2fa50671d3">
+				<File Id="DeploymentTask1.exe" Name="DeploymentTask1.exe" Source="$(var.DeploymentTask1.TargetDir)DeploymentTask1.exe" />
+			</Component>
+
+			<!-- DLL file -->
+			<Component Id="DeploymentTask1.dll" Guid="12345678-1234-1234-1234-123456789012">
+				<File Id="DeploymentTask1.dll" Name="DeploymentTask1.dll" Source="$(var.DeploymentTask1.TargetDir)DeploymentTask1.dll" />
+			</Component>
+
+			<!-- Runtime configuration -->
+			<Component Id="DeploymentTask1.runtimeconfig.json" Guid="23456789-2345-2345-2345-234567890123">
+				<File Id="DeploymentTask1.runtimeconfig.json" Name="DeploymentTask1.runtimeconfig.json" Source="$(var.DeploymentTask1.TargetDir)DeploymentTask1.runtimeconfig.json" />
+			</Component>
+
+			<!-- Dependencies file -->
+			<Component Id="DeploymentTask1.deps.json" Guid="34567890-3456-3456-3456-345678901234">
+				<File Id="DeploymentTask1.deps.json" Name="DeploymentTask1.deps.json" Source="$(var.DeploymentTask1.TargetDir)DeploymentTask1.deps.json" />
+			</Component>
+
+			<!-- Debug symbols (optional but might be needed) -->
+			<Component Id="DeploymentTask1.pdb" Guid="45678901-4567-4567-4567-456789012345">
+				<File Id="DeploymentTask1.pdb" Name="DeploymentTask1.pdb" Source="$(var.DeploymentTask1.TargetDir)DeploymentTask1.pdb" />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

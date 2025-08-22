@@ -1,0 +1,16 @@
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.exe
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.deps.json
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.runtimeconfig.json
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.dll
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\bin\Debug\net8.0-windows\DeploymentTask1.pdb
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.Form1.resources
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.csproj.GenerateResource.cache
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.AssemblyInfoInputs.cache
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.AssemblyInfo.cs
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.csproj.CoreCompileInputs.cache
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.dll
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\refint\DeploymentTask1.dll
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.pdb
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\DeploymentTask1.genruntimeconfig.cache
+C:\Users\Marcus Juan\source\repos\DeploymentTask1\DeploymentTask1\obj\Debug\net8.0-windows\ref\DeploymentTask1.dll
